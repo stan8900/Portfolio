@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.98b8835c.css",
+    "main.js": "/react-gh-pages/static/js/main.58657fa8.js",
+    "static/media/bannerImg.png": "/react-gh-pages/static/media/bannerImg.27e663eb061288ae0c8f.png",
+    "static/media/testimonialOne.png": "/react-gh-pages/static/media/testimonialOne.1c6610c5e48ea2ad6562.png",
+    "static/media/contactImg.png": "/react-gh-pages/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/projectOne.jpg": "/react-gh-pages/static/media/projectOne.a62b58b3a92050bd6edf.jpg",
+    "static/media/projectThree.jpeg": "/react-gh-pages/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/react-gh-pages/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/react-gh-pages/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.98b8835c.css.map": "/react-gh-pages/static/css/main.98b8835c.css.map",
+    "main.58657fa8.js.map": "/react-gh-pages/static/js/main.58657fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b8835c.css",
+    "static/js/main.58657fa8.js"
+  ]
+}
