@@ -19,7 +19,7 @@ const ContactLeft = () => {
           Self-motivated young professional with 3 years of experience up to date. Developed over 50 projects with 7 of them going global. 
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+447881124462</span>
+          Phone: <span  className="text-lightText">+447881124462</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">sstan8900@outlook.com</span>
