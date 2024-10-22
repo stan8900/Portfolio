@@ -1,70 +1,142 @@
-# Getting Started with Create React App
+# 👋 Hi, I’m Sultan Jurabekov
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 🌟 About Me
+I'm a **Senior Python Developer** with a passion for software development, artificial intelligence, and creating innovative technology solutions that enhance user experiences. I enjoy learning about advanced programming techniques, algorithms, and AI applications in real-world projects. I'm always looking for collaboration opportunities, especially in open-source projects related to web development, AI, and system management.
 
-## Available Scripts
+### 📫 How to Reach Me
+- **Email**: [sstan8900@outlook.com](mailto:sstan8900@outlook.com)
+- **LinkedIn**: [Your LinkedIn Profile](#) (link to be added)
 
-In the project directory, you can run:
+### 😄 Pronouns
+He/Him
 
-### `npm start`
+### ⚡ Fun Fact
+I founded the **Uzbek Society** at Brunel University and have a passion for exploring cultural events that bring people together!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💻 Tech Stack
+- **Programming Languages**: Python, JavaScript, C++, C#, Java, TypeScript, HTML, CSS, SCSS, SASS, Swift
+- **Frameworks & Tools**: React, JSON, Data Science, SQL, NoSQL
+- **Operating Systems**: Microsoft Windows 10+, macOS
+- **Software & Platforms**: Office 365, Networks, Internet
+- **Other Skills**: Leadership, Event Organization, Customer Service, Problem Solving
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🧑‍💻 Experience
 
-### `npm run build`
+### Ambassador, Brunel University London Pathway College
+*September 2024 – Present*
+- Represent Brunel University online, assisting prospective students with educational decisions.
+- Developed communication and customer service skills through tailored responses and research.
+- Collaborated with the marketing team to create engaging social media posts.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Lead Resident's Life Ambassador, Brunel University London
+*September 2024 – Present*
+- Led support groups for students living in halls, ensuring a smooth transition to university life.
+- Organized events and campaigns to foster community, including movie nights and charity fundraisers.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Marketing Team Member, Brunel University London Pathway College
+*August 2024 – Present*
+- Collaborated with the marketing department to create digital content aimed at engaging prospective students.
+- Analyzed audience feedback to improve social media campaigns and promotional strategies.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Co-CEO, Startdev_, Tashkent
+*July 2023 – Present*
+- Co-manage a startup focused on web and mobile app development.
+- Lead a team of 20 developers and oversee project management, ensuring timely delivery and client satisfaction.
 
-### `npm run eject`
+### Team Leader, YoungDevGroup, Tashkent
+*May 2022 – November 2022*
+- Led a team of 12 developers on Python, JavaScript, and HTML projects.
+- Organized and presented the “BankSystem” project, attracting over 60 attendees.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Developer, DoDo Pizza, Tashkent
+*November 2021 – April 2022*
+- Created and managed a database of over 1,000 elements, ensuring data integrity and project success.
+- Developed backend functionalities and maintained project timelines.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📊 Projects
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### simple-ai
+- **Description**: A simple AI chatbot project created using Python.
+- **Tools Used**: Python, Natural Language Toolkit (NLTK), NumPy, Jupyter Notebook.
 
-## Learn More
+### face-recognition
+- **Description**: Real-time Face Recognition and Emotion Detection using OpenCV and DeepFace.
+- **Tools Used**: Python, OpenCV, DeepFace, TensorFlow, Keras, NumPy, Matplotlib.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Morse Code Decoder and Sound Player
+- **Description**: Decodes Morse code input into text and plays corresponding sounds.
+- **Tools Used**: Python, PyAudio, NumPy, argparse.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Hospital Management System, Brunel University London
+- **Description**: Developed the Finances component of the Hospital Management System using Java and Figma.
+- **Tools Used**: Java, Figma, UML, MySQL, IntelliJ IDEA, Git.
 
-### Code Splitting
+### Tashkent MUN, Tashkent
+- **Role**: USG, Finance Manager; Head of GA Committee
+- **Description**: Managed sponsor relationships and oversaw major event coordination for 100+ participants.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Reveal Volunteers, Tashkent
+- **Role**: Head of Media
+- **Description**: Managed communication with sponsors and created social media content for events.
 
-### Analyzing the Bundle Size
+### Uzbek Society Vice-President, Brunel University
+- **Description**: Led events and cultural exchanges, promoting Uzbek traditions among university students.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🎓 Education
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Brunel University London, United Kingdom
+**BSc in Computer Science with Honors**  
+*January 2024 - Expected Graduation May 2026*  
+Relevant Coursework: Theory of Computation, Software Development, Web Applications, Information Theory
 
-### Advanced Configuration
+### MAFIFIDUM, Tashkent
+**Primary/Secondary/High School**  
+*September 2012 – May 2023*  
+GPA: 3.0/4.0  
+Extracurricular: Football and Basketball Champion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🌍 Languages
+- English (Fluent)
+- Russian (Fluent)
+- Uzbek (Native)
+- Turkish (Proficient)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 🏆 Awards & Certificates
+- Certified Full Stack Developer
+- Python Data Science Certificate
+- SQL Bootcamp Graduate
+- Python Data Analyst
+- Object-Oriented Programming in Python
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 🎯 Interests
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Open-Source Development
+- Sports (Football & Basketball)
+- Volunteering & Charity Work
+- Event Management & Public Speaking
+- Travel & Cultural Exchange
+
+---
+
+## 🔗 Connect with Me
+- **Instagram**: [Your Instagram Profile](#) (link to be added)
+- **Pinterest**: [Your Pinterest Profile](#) (link to be added)
+
+---
+
+Feel free to reach out if you'd like to collaborate or discuss any opportunities!
