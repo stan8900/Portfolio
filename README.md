@@ -11,7 +11,7 @@ I'm a **Senior Python Developer** with a passion for software development, artif
 He/Him
 
 ### ⚡ Fun Fact
-I founded the **Uzbek Society** at Brunel University and have a passion for exploring cultural events that bring people together!
+I'm in the group which founded the **Uzbek Society** at Brunel University and have a passion for exploring cultural events that bring people together!
 
 ---
 
