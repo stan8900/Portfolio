@@ -24,41 +24,6 @@ I founded the **Uzbek Society** at Brunel University and have a passion for expl
 
 ---
 
-## 🧑‍💻 Experience
-
-### Ambassador, Brunel University London Pathway College
-*September 2024 – Present*
-- Represent Brunel University online, assisting prospective students with educational decisions.
-- Developed communication and customer service skills through tailored responses and research.
-- Collaborated with the marketing team to create engaging social media posts.
-
-### Lead Resident's Life Ambassador, Brunel University London
-*September 2024 – Present*
-- Led support groups for students living in halls, ensuring a smooth transition to university life.
-- Organized events and campaigns to foster community, including movie nights and charity fundraisers.
-
-### Marketing Team Member, Brunel University London Pathway College
-*August 2024 – Present*
-- Collaborated with the marketing department to create digital content aimed at engaging prospective students.
-- Analyzed audience feedback to improve social media campaigns and promotional strategies.
-
-### Co-CEO, Startdev_, Tashkent
-*July 2023 – Present*
-- Co-manage a startup focused on web and mobile app development.
-- Lead a team of 20 developers and oversee project management, ensuring timely delivery and client satisfaction.
-
-### Team Leader, YoungDevGroup, Tashkent
-*May 2022 – November 2022*
-- Led a team of 12 developers on Python, JavaScript, and HTML projects.
-- Organized and presented the “BankSystem” project, attracting over 60 attendees.
-
-### Developer, DoDo Pizza, Tashkent
-*November 2021 – April 2022*
-- Created and managed a database of over 1,000 elements, ensuring data integrity and project success.
-- Developed backend functionalities and maintained project timelines.
-
----
-
 ## 📊 Projects
 
 ### simple-ai
@@ -106,7 +71,7 @@ I founded the **Uzbek Society** at Brunel University and have a passion for expl
 ---
 
 ## 🔗 Connect with Me
-- **Instagram**: [https://www.instagram.com/whosjura/](#) (link to be added)
+- **Instagram**: [https://www.instagram.com/whosjura/](#)
 
 ---
 
