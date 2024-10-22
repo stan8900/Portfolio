@@ -5,7 +5,7 @@ I'm a **Senior Python Developer** with a passion for software development, artif
 
 ### 📫 How to Reach Me
 - **Email**: [sstan8900@outlook.com](mailto:sstan8900@outlook.com)
-- **LinkedIn**: [Your LinkedIn Profile](#) (link to be added)
+- **LinkedIn**: [https://www.linkedin.com/in/whosjura/]
 
 ### 😄 Pronouns
 He/Him
@@ -73,37 +73,9 @@ I founded the **Uzbek Society** at Brunel University and have a passion for expl
 - **Description**: Decodes Morse code input into text and plays corresponding sounds.
 - **Tools Used**: Python, PyAudio, NumPy, argparse.
 
-### Hospital Management System, Brunel University London
-- **Description**: Developed the Finances component of the Hospital Management System using Java and Figma.
-- **Tools Used**: Java, Figma, UML, MySQL, IntelliJ IDEA, Git.
-
-### Tashkent MUN, Tashkent
-- **Role**: USG, Finance Manager; Head of GA Committee
-- **Description**: Managed sponsor relationships and oversaw major event coordination for 100+ participants.
-
-### Reveal Volunteers, Tashkent
-- **Role**: Head of Media
-- **Description**: Managed communication with sponsors and created social media content for events.
-
-### Uzbek Society Vice-President, Brunel University
-- **Description**: Led events and cultural exchanges, promoting Uzbek traditions among university students.
-
+## You can see them in my repositories.
 ---
 
-## 🎓 Education
-
-### Brunel University London, United Kingdom
-**BSc in Computer Science with Honors**  
-*January 2024 - Expected Graduation May 2026*  
-Relevant Coursework: Theory of Computation, Software Development, Web Applications, Information Theory
-
-### MAFIFIDUM, Tashkent
-**Primary/Secondary/High School**  
-*September 2012 – May 2023*  
-GPA: 3.0/4.0  
-Extracurricular: Football and Basketball Champion
-
----
 
 ## 🌍 Languages
 - English (Fluent)
@@ -134,8 +106,7 @@ Extracurricular: Football and Basketball Champion
 ---
 
 ## 🔗 Connect with Me
-- **Instagram**: [Your Instagram Profile](#) (link to be added)
-- **Pinterest**: [Your Pinterest Profile](#) (link to be added)
+- **Instagram**: [https://www.instagram.com/whosjura/](#) (link to be added)
 
 ---
 
