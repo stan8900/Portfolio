@@ -5,7 +5,7 @@ I'm a **Senior Python Developer** with a passion for software development, artif
 
 ### 📫 How to Reach Me
 - **Email**: [sstan8900@outlook.com](mailto:sstan8900@outlook.com)
-- **LinkedIn**: [https://www.linkedin.com/in/whosjura/]
+- **LinkedIn**: https://www.linkedin.com/in/whosjura/
 
 ### 😄 Pronouns
 He/Him
